@@ -1,0 +1,186 @@
+lerning>  sat and sun
+doubt 
+monday 8pm
+wed:7pm
+
+7 applications
+1 Zomato (In Class)
+1 Your Choice (Your Choice)  30%
+1 Profile 10%
+
+4 mini project (60% code complete) 10%
+
+Tasks  ( I will provide) (6-8)  15%
+Assignments ( Will upload edureka)  (8) 15%
+
+20% Class performance
+
+100%
+100% Interview 
+200%
+
+HTML > Raw Structure 
+CSS > Looks and feels
+Bootstrap > Responsive Design
+Javascript > Add Dynmic to website
+Nodes+Express > Backend of app (help to make API)
+Mongo > Database (it will save all our data)
+React > Frontend (display part of app)
+
+
+MERN Stack
+
+
+https://github.com/ > Signup(create account)    
+https://github.com/Aakashdeveloper > Follow
+https://www.youtube.com/developerfunnel > Subscribe
+https://code.visualstudio.com/ > install
+https://git-scm.com/downloads > Install
+https://nodejs.org/en/ > Install
+https://www.linkedin.com/ > Create Account
+https://stackoverflow.com/ > Create Account
+
+
+extensions
+> vscode-icons
+> spellCheck
+> Githistory
+> GitLens
+> tabnine 
+
+
+////////////
+HTML > this is the main tag of the page
+HEAD > All the links (css, javascript) (title,metatag)
+BODY > All the content that is visible to user 
+
+
+Inline Element
+> Start in the same line
+> Only take the space which is required
+> a,img, span
+Block Level Element
+> Always Start from new line
+> Take whole width of screen
+> P, div, h1-h6
+
+
+scr=> source
+href=> hyper reffernce
+
+
+Name
+YourImage
+About U
+Skills
+Hobbies
+Map
+Social Link
+Copyright
+
+
+>>> https://www.w3schools.com/tags/tag_hn.asp
+
+SEO > search engine optimsation
+
+
+//////
+CSS > Cascase Style Sheet
+
+inline Css
+styleTag
+StylesSheet
+
+inline > styleTag > StylesSheet
+
+inline{
+    color:'red',
+    text-align:'center'
+}
+
+styleTag
+{
+    color:'orange',
+    font-size:'30';
+    width:50%
+}
+
+StylesSheet
+{
+    width:40%;
+    text-align:right;
+    height:200px
+}
+
+{
+    color:'red',
+    text-align:'center',
+    font-size:'30',
+    width:50%,
+    height:200px
+
+}
+
+https://htmlcolorcodes.com/
+
+//// Target element ////////////////
+Id 
+> When you want target something unique
+> #
+ClassName
+> When you want to target group to element for same properties
+> .
+
+TagName
+> Help to target same elment by tag
+a , p
+
+solid
+dotted
+dashed
+double
+groove
+
+position: absolute
+position: relative
+
+
+https://imgbb.com/
+
+https://www.w3schools.com/howto/howto_css_parallax.asp
+
+Bs3
+
+xs < 768px
+sm > 768px
+md > 992px
+lg > 1200px
+
+
+Bs4
+col- < 576px
+sm > 576px
+md > 768px
+lg > 992px
+xl > 1200px
+
+Bs5
+
+col- < 576px
+sm > 576px
+md > 768px
+lg > 992px
+xl > 1200px
+xxl > 1400px
+
+
+eval()
+
+https://api.openweathermap.org/data/2.5/forecast/daily?q=london&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29
+
+
+https://api.openweathermap.org/data/2.5/forecast/daily?lat=28.9891146&lon=77.0342236&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29
+
+
+export import
+form
